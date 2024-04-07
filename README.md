@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=blue&size=30&center=true&vCenter=true&width=1000&lines=Bem-vindo+à+minha+página+Github!;Meu+nome+é+Lincoln!)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+<img src="https://c4.wallpaperflare.com/wallpaper/87/313/242/cyberpunk-edgerunners-anime-girls-anime-lucy-edgerunners-david-edgerunners-hd-wallpaper-preview.jpg" alt="">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_caraaceli) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/LincolnCaraceli) 
 
