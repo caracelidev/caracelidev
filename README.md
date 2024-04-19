@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=001eff&size=30&center=true&vCenter=true&width=1000&lines=<div>Bem-vindo+à+minha+página+Github!</div>;<div>Meu+nome+é+Lincoln!</div>)](https://git.io/typing-svg)
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 
 <p align="center"> <img src="https://c4.wallpaperflare.com/wallpaper/87/313/242/cyberpunk-edgerunners-anime-girls-anime-lucy-edgerunners-david-edgerunners-hd-wallpaper-preview.jpg" alt=""> </p>
 
